@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/dishantharya/new code/flutter/coolapp/ios/build/Release-iphoneos/FirebaseMLModelDownloader/FirebaseMLModelDownloader.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/dishantharya/new code/flutter/coolapp/ios/build/Release-iphoneos/FirebaseMLModelDownloader/FirebaseMLModelDownloader.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "FirebaseMLModelDownloader-Swift.h",
+      'external-contents': "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/unextended-interface-header.h",
+    }]
+    }]
+}

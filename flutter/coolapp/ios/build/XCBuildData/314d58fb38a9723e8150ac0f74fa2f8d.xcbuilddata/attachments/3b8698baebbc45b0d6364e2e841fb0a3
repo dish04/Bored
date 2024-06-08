@@ -1,0 +1,75 @@
+{
+  "" : {
+    "const-values" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.swiftconstvalues",
+    "dependencies" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.d",
+    "diagnostics" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.dia",
+    "emit-module-dependencies" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.swiftdeps"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/CustomModel.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/CustomModel.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/CustomModel.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/CustomModel.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/DeviceLogger.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DeviceLogger.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DeviceLogger.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DeviceLogger.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/DownloaderUserDefaults.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DownloaderUserDefaults.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DownloaderUserDefaults.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DownloaderUserDefaults.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/FileDownloader.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FileDownloader.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FileDownloader.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FileDownloader.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/LocalModelInfo.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/LocalModelInfo.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/LocalModelInfo.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/LocalModelInfo.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/ModelDownloadConditions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadConditions.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadConditions.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadConditions.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/ModelDownloader.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloader.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloader.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloader.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/ModelDownloadTask.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadTask.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadTask.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadTask.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/ModelFileManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelFileManager.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelFileManager.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelFileManager.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/ModelInfoRetriever.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelInfoRetriever.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelInfoRetriever.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelInfoRetriever.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/proto/firebase_ml_log_sdk.pb.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/firebase_ml_log_sdk.pb.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/firebase_ml_log_sdk.pb.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/firebase_ml_log_sdk.pb.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/RemoteModelInfo.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/RemoteModelInfo.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/RemoteModelInfo.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/RemoteModelInfo.o"
+  },
+  "/Users/dishantharya/new code/flutter/coolapp/ios/Pods/FirebaseMLModelDownloader/FirebaseMLModelDownloader/Sources/TelemetryLogger.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/TelemetryLogger.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/TelemetryLogger.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/TelemetryLogger.o"
+  }
+}

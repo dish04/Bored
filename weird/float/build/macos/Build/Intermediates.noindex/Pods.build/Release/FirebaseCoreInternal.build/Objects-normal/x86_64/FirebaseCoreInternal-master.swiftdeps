@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "91332415b58a92ff614cfc6fd22fae7a2155bfb4aea79a647311f2c3c68e47c2"
+build_start_time: [1710573184, 369469000]
+build_end_time: [1710573259, 110386000]
+inputs:
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1710529067, 384420487]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1710529067, 385646875]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1710529067, 386236089]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1710529067, 386614969]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1710529067, 386847930]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1710529067, 387294018]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1710529067, 384689156]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1710529067, 384184567]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1710529067, 387514062]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1710529067, 387054182]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1710529067, 385308788]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1710529067, 385882211]

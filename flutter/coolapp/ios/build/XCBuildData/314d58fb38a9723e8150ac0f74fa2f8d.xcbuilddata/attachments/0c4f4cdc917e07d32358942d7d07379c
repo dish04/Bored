@@ -1,0 +1,10 @@
+framework module FirebaseMLModelDownloader {
+  umbrella header "FirebaseMLModelDownloader-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module FirebaseMLModelDownloader.__Swift {
+  exclude header "FirebaseMLModelDownloader-Swift.h"
+}

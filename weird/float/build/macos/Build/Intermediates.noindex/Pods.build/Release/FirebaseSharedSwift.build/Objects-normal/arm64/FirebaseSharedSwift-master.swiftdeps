@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "b5692d7e6dea145bfb044ba74f3286f1afade64700a7479a67af5a5d1049adee"
+build_start_time: [1710573184, 368820000]
+build_end_time: [1710573257, 130099000]
+inputs:
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift"
+  : [1710529094, 644455961]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift"
+  : [1710529094, 644154082]

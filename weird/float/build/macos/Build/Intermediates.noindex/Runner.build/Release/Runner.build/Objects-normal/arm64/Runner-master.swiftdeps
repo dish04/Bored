@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "166361f0fad04159848f04ac2f92c90ccc9e65cd251631a4414ce8cee5e1504d"
+build_start_time: [1710573360, 150094000]
+build_end_time: [1710573377, 380927000]
+inputs:
+  ? "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1710573359, 814870043]
+  "/Users/dishantharya/new code/weird/float/macos/Flutter/GeneratedPluginRegistrant.swift": [1710573151, 955021457]
+  "/Users/dishantharya/new code/weird/float/macos/Runner/AppDelegate.swift": [1706213761, 0]
+  "/Users/dishantharya/new code/weird/float/macos/Runner/MainFlutterWindow.swift": [1706213761, 0]

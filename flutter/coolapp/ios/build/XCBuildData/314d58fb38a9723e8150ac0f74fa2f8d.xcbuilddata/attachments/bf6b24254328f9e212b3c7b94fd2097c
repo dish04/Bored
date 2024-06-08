@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/dishantharya/new code/flutter/coolapp/ios/build/Release-iphoneos/firebase_ml_model_downloader/firebase_ml_model_downloader.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/dishantharya/new code/flutter/coolapp/ios/build/Release-iphoneos/firebase_ml_model_downloader/firebase_ml_model_downloader.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "firebase_ml_model_downloader-Swift.h",
+      'external-contents': "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/unextended-interface-header.h",
+    }]
+    }]
+}

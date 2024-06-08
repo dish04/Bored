@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="trying_again_[t2">
+    <output-path>$PROJECT_DIR$/out/artifacts/trying_again__t2</output-path>
+    <root id="root">
+      <element id="archive" name="trying_again__t2.jar">
+        <element id="module-output" name="trying_again_[t2" />
+      </element>
+      <element id="module-source" name="trying_again_[t2" />
+    </root>
+  </artifact>
+</component>

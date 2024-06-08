@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master.dia",
+    "emit-module-dependencies" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master.swiftdeps"
+  },
+  "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift" : {
+    "const-values" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.swiftconstvalues",
+    "dependencies" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.d",
+    "diagnostics" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.o",
+    "llvm-bc" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.bc",
+    "object" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.o",
+    "swift-dependencies" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.swiftdeps",
+    "swiftmodule" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding~partial.swiftmodule"
+  },
+  "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift" : {
+    "const-values" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.swiftconstvalues",
+    "dependencies" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.d",
+    "diagnostics" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.o",
+    "llvm-bc" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.bc",
+    "object" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.o",
+    "swift-dependencies" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.swiftdeps",
+    "swiftmodule" : "/Users/dishantharya/new code/weird/float/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder~partial.swiftmodule"
+  }
+}

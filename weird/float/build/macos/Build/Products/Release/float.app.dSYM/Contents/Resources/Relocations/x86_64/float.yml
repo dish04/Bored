@@ -1,0 +1,229 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/dishantharya/new code/weird/float/build/macos/Build/Products/Release/float.app/Contents/MacOS/float'
+relocations:
+  - { offsetInCU: 0x27, offset: 0xD648B, size: 0x8, addend: 0x0, symName: '_$s5float17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x100002110, symSize: 0xF0 }
+  - { offsetInCU: 0x61, offset: 0xD64C5, size: 0x8, addend: 0x0, symName: '_$s5float17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x100002110, symSize: 0xF0 }
+  - { offsetInCU: 0x10E, offset: 0xD6572, size: 0x8, addend: 0x0, symName: '_$s5float17MainFlutterWindowC11contentRect9styleMask7backing5deferACSo6CGRectV_So013NSWindowStyleH0VSo18NSBackingStoreTypeVSbtcfcTo', symObjAddr: 0xF0, symBinAddr: 0x100002200, symSize: 0x80 }
+  - { offsetInCU: 0x196, offset: 0xD65FA, size: 0x8, addend: 0x0, symName: '_$s5float17MainFlutterWindowCMa', symObjAddr: 0x1A0, symBinAddr: 0x1000022B0, symSize: 0x20 }
+  - { offsetInCU: 0x1AA, offset: 0xD660E, size: 0x8, addend: 0x0, symName: '_$s5float24RegisterGeneratedPlugins8registryySo21FlutterPluginRegistry_p_tFTf4e_nSo0F14ViewControllerC_Tg5', symObjAddr: 0x1C0, symBinAddr: 0x1000022D0, symSize: 0x111 }
+  - { offsetInCU: 0x46D, offset: 0xD68D1, size: 0x8, addend: 0x0, symName: '_$s5float17MainFlutterWindowCfD', symObjAddr: 0x170, symBinAddr: 0x100002280, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0xD6920, size: 0x8, addend: 0x0, symName: '_$s5float11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x1000023F0, symSize: 0x10 }
+  - { offsetInCU: 0x4B, offset: 0xD6944, size: 0x8, addend: 0x0, symName: '_$s5float11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x1000023F0, symSize: 0x10 }
+  - { offsetInCU: 0x7D, offset: 0xD6976, size: 0x8, addend: 0x0, symName: '_$s5float11AppDelegateCACycfcTo', symObjAddr: 0x10, symBinAddr: 0x100002400, symSize: 0x30 }
+  - { offsetInCU: 0xD1, offset: 0xD69CA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x70, symBinAddr: 0x100002460, symSize: 0x10 }
+  - { offsetInCU: 0xEF, offset: 0xD69E8, size: 0x8, addend: 0x0, symName: '_$s5float11AppDelegateCMa', symObjAddr: 0x80, symBinAddr: 0x100002470, symSize: 0x14 }
+  - { offsetInCU: 0x21F, offset: 0xD6B18, size: 0x8, addend: 0x0, symName: '_$s5float11AppDelegateCfD', symObjAddr: 0x40, symBinAddr: 0x100002430, symSize: 0x30 }
+  - { offsetInCU: 0x2B, offset: 0xD6B7B, size: 0x8, addend: 0x0, symName: '_$s5float19ResourceBundleClass33_EEDA25F6FEE5A229A6843CEE931E006ALLCfD', symObjAddr: 0x0, symBinAddr: 0x100002490, symSize: 0x20 }
+  - { offsetInCU: 0x6D, offset: 0xD6BBD, size: 0x8, addend: 0x0, symName: '_$s5float19ResourceBundleClass33_EEDA25F6FEE5A229A6843CEE931E006ALLCMa', symObjAddr: 0x20, symBinAddr: 0x1000024B0, symSize: 0x14 }
+  - { offsetInCU: 0x167, offset: 0xD6CB7, size: 0x8, addend: 0x0, symName: '_$s5float19ResourceBundleClass33_EEDA25F6FEE5A229A6843CEE931E006ALLCfD', symObjAddr: 0x0, symBinAddr: 0x100002490, symSize: 0x20 }
+  - { offsetInCU: 0x27, offset: 0xD6D06, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseCorePlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x1000024C4, symSize: 0xB4 }
+  - { offsetInCU: 0x35, offset: 0xD6D14, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseCorePlugin sharedInstance]', symObjAddr: 0xB4, symBinAddr: 0x100002578, symSize: 0x30 }
+  - { offsetInCU: 0x5F, offset: 0xD6D3E, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x8BC0, symBinAddr: 0x1000157D0, symSize: 0x0 }
+  - { offsetInCU: 0x75, offset: 0xD6D54, size: 0x8, addend: 0x0, symName: _sharedInstance.instance, symObjAddr: 0x8BC8, symBinAddr: 0x1000157D8, symSize: 0x0 }
+  - { offsetInCU: 0x100, offset: 0xD6DDF, size: 0x8, addend: 0x0, symName: _customAuthDomains, symObjAddr: 0x8BD0, symBinAddr: 0x1000157E0, symSize: 0x0 }
+  - { offsetInCU: 0x15C, offset: 0xD6E3B, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseCorePlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x1000024C4, symSize: 0xB4 }
+  - { offsetInCU: 0x33B, offset: 0xD701A, size: 0x8, addend: 0x0, symName: '___39+[FLTFirebaseCorePlugin sharedInstance]_block_invoke', symObjAddr: 0xE4, symBinAddr: 0x1000025A8, symSize: 0x10E }
+  - { offsetInCU: 0x42D, offset: 0xD710C, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseCorePlugin initialize]', symObjAddr: 0x1F2, symBinAddr: 0x1000026B6, symSize: 0x70 }
+  - { offsetInCU: 0x490, offset: 0xD716F, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseCorePlugin getCustomDomain:]', symObjAddr: 0x262, symBinAddr: 0x100002726, symSize: 0x19 }
+  - { offsetInCU: 0x4E6, offset: 0xD71C5, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin optionsFromFIROptions:]', symObjAddr: 0x27B, symBinAddr: 0x10000273F, symSize: 0x50D }
+  - { offsetInCU: 0x9B8, offset: 0xD7697, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin initializeResponseFromFIRApp:]', symObjAddr: 0x788, symBinAddr: 0x100002C4C, symSize: 0x1AA }
+  - { offsetInCU: 0xB91, offset: 0xD7870, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin didReinitializeFirebaseCore:]', symObjAddr: 0x932, symBinAddr: 0x100002DF6, symSize: 0xB }
+  - { offsetInCU: 0xBE3, offset: 0xD78C2, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin pluginConstantsForFIRApp:]', symObjAddr: 0x93D, symBinAddr: 0x100002E01, symSize: 0x14 }
+  - { offsetInCU: 0xC22, offset: 0xD7901, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin firebaseLibraryName]', symObjAddr: 0x951, symBinAddr: 0x100002E15, symSize: 0xD }
+  - { offsetInCU: 0xC55, offset: 0xD7934, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin firebaseLibraryVersion]', symObjAddr: 0x95E, symBinAddr: 0x100002E22, symSize: 0xD }
+  - { offsetInCU: 0xC88, offset: 0xD7967, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin flutterChannelName]', symObjAddr: 0x96B, symBinAddr: 0x100002E2F, symSize: 0xD }
+  - { offsetInCU: 0xCBB, offset: 0xD799A, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin initializeAppAppName:initializeAppRequest:completion:]', symObjAddr: 0x978, symBinAddr: 0x100002E3C, symSize: 0x639 }
+  - { offsetInCU: 0x12E1, offset: 0xD7FC0, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin initializeCoreWithCompletion:]', symObjAddr: 0xFB1, symBinAddr: 0x100003475, symSize: 0xE5 }
+  - { offsetInCU: 0x13D1, offset: 0xD80B0, size: 0x8, addend: 0x0, symName: '___54-[FLTFirebaseCorePlugin initializeCoreWithCompletion:]_block_invoke', symObjAddr: 0x1096, symBinAddr: 0x10000355A, symSize: 0x248 }
+  - { offsetInCU: 0x1593, offset: 0xD8272, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b, symObjAddr: 0x12DE, symBinAddr: 0x1000037A2, symSize: 0x30 }
+  - { offsetInCU: 0x15C8, offset: 0xD82A7, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x130E, symBinAddr: 0x1000037D2, symSize: 0x25 }
+  - { offsetInCU: 0x15FF, offset: 0xD82DE, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin optionsFromResourceWithCompletion:]', symObjAddr: 0x1333, symBinAddr: 0x1000037F7, symSize: 0x12 }
+  - { offsetInCU: 0x165F, offset: 0xD833E, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin deleteAppName:completion:]', symObjAddr: 0x1345, symBinAddr: 0x100003809, symSize: 0xC2 }
+  - { offsetInCU: 0x1758, offset: 0xD8437, size: 0x8, addend: 0x0, symName: '___50-[FLTFirebaseCorePlugin deleteAppName:completion:]_block_invoke', symObjAddr: 0x1407, symBinAddr: 0x1000038CB, symSize: 0x65 }
+  - { offsetInCU: 0x17F1, offset: 0xD84D0, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0x146C, symBinAddr: 0x100003930, symSize: 0x17 }
+  - { offsetInCU: 0x181A, offset: 0xD84F9, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x1483, symBinAddr: 0x100003947, symSize: 0xF }
+  - { offsetInCU: 0x1845, offset: 0xD8524, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin setAutomaticDataCollectionEnabledAppName:enabled:completion:]', symObjAddr: 0x1492, symBinAddr: 0x100003956, symSize: 0xA1 }
+  - { offsetInCU: 0x1963, offset: 0xD8642, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseCorePlugin setAutomaticResourceManagementEnabledAppName:enabled:completion:]', symObjAddr: 0x1533, symBinAddr: 0x1000039F7, symSize: 0x10 }
+  - { offsetInCU: 0x27, offset: 0xD8B18, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseMethodCallResult createWithSuccess:andErrorBlock:]', symObjAddr: 0x0, symBinAddr: 0x100003A07, symSize: 0x99 }
+  - { offsetInCU: 0x41, offset: 0xD8B32, size: 0x8, addend: 0x0, symName: _kFIRDefaultAppNameIOS, symObjAddr: 0x4B0, symBinAddr: 0x100010408, symSize: 0x0 }
+  - { offsetInCU: 0x61, offset: 0xD8B52, size: 0x8, addend: 0x0, symName: _kFIRDefaultAppNameDart, symObjAddr: 0x4B8, symBinAddr: 0x100010410, symSize: 0x0 }
+  - { offsetInCU: 0x1ED, offset: 0xD8CDE, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseMethodCallResult createWithSuccess:andErrorBlock:]', symObjAddr: 0x0, symBinAddr: 0x100003A07, symSize: 0x99 }
+  - { offsetInCU: 0x2DC, offset: 0xD8DCD, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseMethodCallResult success]', symObjAddr: 0x99, symBinAddr: 0x100003AA0, symSize: 0xA }
+  - { offsetInCU: 0x311, offset: 0xD8E02, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseMethodCallResult setSuccess:]', symObjAddr: 0xA3, symBinAddr: 0x100003AAA, symSize: 0xF }
+  - { offsetInCU: 0x350, offset: 0xD8E41, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseMethodCallResult error]', symObjAddr: 0xB2, symBinAddr: 0x100003AB9, symSize: 0xA }
+  - { offsetInCU: 0x385, offset: 0xD8E76, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseMethodCallResult setError:]', symObjAddr: 0xBC, symBinAddr: 0x100003AC3, symSize: 0xF }
+  - { offsetInCU: 0x3C4, offset: 0xD8EB5, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseMethodCallResult .cxx_destruct]', symObjAddr: 0xCB, symBinAddr: 0x100003AD2, symSize: 0x28 }
+  - { offsetInCU: 0x3F7, offset: 0xD8EE8, size: 0x8, addend: 0x0, symName: '+[FLTFirebasePlugin createFlutterErrorFromCode:message:optionalDetails:andOptionalNSError:]', symObjAddr: 0xF3, symBinAddr: 0x100003AFA, symSize: 0x198 }
+  - { offsetInCU: 0x5B7, offset: 0xD90A8, size: 0x8, addend: 0x0, symName: '+[FLTFirebasePlugin firebaseAppNameFromDartName:]', symObjAddr: 0x28B, symBinAddr: 0x100003C92, symSize: 0x5E }
+  - { offsetInCU: 0x65F, offset: 0xD9150, size: 0x8, addend: 0x0, symName: '+[FLTFirebasePlugin firebaseAppNameFromIosName:]', symObjAddr: 0x2E9, symBinAddr: 0x100003CF0, symSize: 0x5E }
+  - { offsetInCU: 0x707, offset: 0xD91F8, size: 0x8, addend: 0x0, symName: '+[FLTFirebasePlugin firebaseAppNamed:]', symObjAddr: 0x347, symBinAddr: 0x100003D4E, symSize: 0xAB }
+  - { offsetInCU: 0x27, offset: 0xD931E, size: 0x8, addend: 0x0, symName: '-[FLTFirebasePluginRegistry init]', symObjAddr: 0x0, symBinAddr: 0x100003DF9, symSize: 0x66 }
+  - { offsetInCU: 0x35, offset: 0xD932C, size: 0x8, addend: 0x0, symName: '+[FLTFirebasePluginRegistry sharedInstance]', symObjAddr: 0x66, symBinAddr: 0x100003E5F, symSize: 0x30 }
+  - { offsetInCU: 0x5F, offset: 0xD9356, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x3A70, symBinAddr: 0x1000157E8, symSize: 0x0 }
+  - { offsetInCU: 0x75, offset: 0xD936C, size: 0x8, addend: 0x0, symName: _sharedInstance.instance, symObjAddr: 0x3A78, symBinAddr: 0x1000157F0, symSize: 0x0 }
+  - { offsetInCU: 0x103, offset: 0xD93FA, size: 0x8, addend: 0x0, symName: '-[FLTFirebasePluginRegistry init]', symObjAddr: 0x0, symBinAddr: 0x100003DF9, symSize: 0x66 }
+  - { offsetInCU: 0x1FC, offset: 0xD94F3, size: 0x8, addend: 0x0, symName: '___43+[FLTFirebasePluginRegistry sharedInstance]_block_invoke', symObjAddr: 0x96, symBinAddr: 0x100003E8F, symSize: 0x35 }
+  - { offsetInCU: 0x23B, offset: 0xD9532, size: 0x8, addend: 0x0, symName: '-[FLTFirebasePluginRegistry registerFirebasePlugin:]', symObjAddr: 0xCB, symBinAddr: 0x100003EC4, symSize: 0x6C }
+  - { offsetInCU: 0x2E2, offset: 0xD95D9, size: 0x8, addend: 0x0, symName: '-[FLTFirebasePluginRegistry pluginConstantsForFIRApp:]', symObjAddr: 0x137, symBinAddr: 0x100003F30, symSize: 0x252 }
+  - { offsetInCU: 0x46A, offset: 0xD9761, size: 0x8, addend: 0x0, symName: '-[FLTFirebasePluginRegistry didReinitializeFirebaseCore:]', symObjAddr: 0x389, symBinAddr: 0x100004182, symSize: 0x29E }
+  - { offsetInCU: 0x605, offset: 0xD98FC, size: 0x8, addend: 0x0, symName: '___57-[FLTFirebasePluginRegistry didReinitializeFirebaseCore:]_block_invoke', symObjAddr: 0x627, symBinAddr: 0x100004420, symSize: 0x2B }
+  - { offsetInCU: 0x66C, offset: 0xD9963, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40r, symObjAddr: 0x652, symBinAddr: 0x10000444B, symSize: 0x38 }
+  - { offsetInCU: 0x695, offset: 0xD998C, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r, symObjAddr: 0x68A, symBinAddr: 0x100004483, symSize: 0x27 }
+  - { offsetInCU: 0x6C0, offset: 0xD99B7, size: 0x8, addend: 0x0, symName: '-[FLTFirebasePluginRegistry .cxx_destruct]', symObjAddr: 0x6B1, symBinAddr: 0x1000044AA, symSize: 0x10 }
+  - { offsetInCU: 0x27, offset: 0xD9BEE, size: 0x8, addend: 0x0, symName: '+[PigeonFirebaseOptions makeWithApiKey:appId:messagingSenderId:projectId:authDomain:databaseURL:storageBucket:measurementId:trackingId:deepLinkURLScheme:androidClientId:iosClientId:iosBundleId:appGroupId:]', symObjAddr: 0x0, symBinAddr: 0x1000044BA, symSize: 0x2B8 }
+  - { offsetInCU: 0x35, offset: 0xD9BFC, size: 0x8, addend: 0x0, symName: _FirebaseCoreHostApiGetCodec, symObjAddr: 0x1677, symBinAddr: 0x100005B31, symSize: 0x30 }
+  - { offsetInCU: 0x5B, offset: 0xD9C22, size: 0x8, addend: 0x0, symName: _FirebaseCoreHostApiGetCodec.sSharedObject, symObjAddr: 0xEE38, symBinAddr: 0x1000157F8, symSize: 0x0 }
+  - { offsetInCU: 0x71, offset: 0xD9C38, size: 0x8, addend: 0x0, symName: _FirebaseCoreHostApiGetCodec.sPred, symObjAddr: 0xEE40, symBinAddr: 0x100015800, symSize: 0x0 }
+  - { offsetInCU: 0xA3, offset: 0xD9C6A, size: 0x8, addend: 0x0, symName: _FirebaseAppHostApiGetCodec, symObjAddr: 0x1EAF, symBinAddr: 0x100006343, symSize: 0x41 }
+  - { offsetInCU: 0xCB, offset: 0xD9C92, size: 0x8, addend: 0x0, symName: _FirebaseAppHostApiGetCodec.sSharedObject, symObjAddr: 0xEE48, symBinAddr: 0x100015808, symSize: 0x0 }
+  - { offsetInCU: 0x364, offset: 0xD9F2B, size: 0x8, addend: 0x0, symName: '+[PigeonFirebaseOptions makeWithApiKey:appId:messagingSenderId:projectId:authDomain:databaseURL:storageBucket:measurementId:trackingId:deepLinkURLScheme:androidClientId:iosClientId:iosBundleId:appGroupId:]', symObjAddr: 0x0, symBinAddr: 0x1000044BA, symSize: 0x2B8 }
+  - { offsetInCU: 0x840, offset: 0xDA407, size: 0x8, addend: 0x0, symName: '+[PigeonFirebaseOptions fromList:]', symObjAddr: 0x2B8, symBinAddr: 0x100004772, symSize: 0x2E4 }
+  - { offsetInCU: 0xBC3, offset: 0xDA78A, size: 0x8, addend: 0x0, symName: _GetNullableObjectAtIndex, symObjAddr: 0x59C, symBinAddr: 0x100004A56, symSize: 0x76 }
+  - { offsetInCU: 0xC4A, offset: 0xDA811, size: 0x8, addend: 0x0, symName: '+[PigeonFirebaseOptions nullableFromList:]', symObjAddr: 0x612, symBinAddr: 0x100004ACC, symSize: 0x35 }
+  - { offsetInCU: 0xC99, offset: 0xDA860, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions toList]', symObjAddr: 0x647, symBinAddr: 0x100004B01, symSize: 0x6A4 }
+  - { offsetInCU: 0x1058, offset: 0xDAC1F, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions apiKey]', symObjAddr: 0xCEB, symBinAddr: 0x1000051A5, symSize: 0xA }
+  - { offsetInCU: 0x108D, offset: 0xDAC54, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setApiKey:]', symObjAddr: 0xCF5, symBinAddr: 0x1000051AF, symSize: 0xF }
+  - { offsetInCU: 0x10CC, offset: 0xDAC93, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions appId]', symObjAddr: 0xD04, symBinAddr: 0x1000051BE, symSize: 0xA }
+  - { offsetInCU: 0x1101, offset: 0xDACC8, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setAppId:]', symObjAddr: 0xD0E, symBinAddr: 0x1000051C8, symSize: 0xF }
+  - { offsetInCU: 0x1140, offset: 0xDAD07, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions messagingSenderId]', symObjAddr: 0xD1D, symBinAddr: 0x1000051D7, symSize: 0xA }
+  - { offsetInCU: 0x1175, offset: 0xDAD3C, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setMessagingSenderId:]', symObjAddr: 0xD27, symBinAddr: 0x1000051E1, symSize: 0xF }
+  - { offsetInCU: 0x11B4, offset: 0xDAD7B, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions projectId]', symObjAddr: 0xD36, symBinAddr: 0x1000051F0, symSize: 0xA }
+  - { offsetInCU: 0x11E9, offset: 0xDADB0, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setProjectId:]', symObjAddr: 0xD40, symBinAddr: 0x1000051FA, symSize: 0xF }
+  - { offsetInCU: 0x1228, offset: 0xDADEF, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions authDomain]', symObjAddr: 0xD4F, symBinAddr: 0x100005209, symSize: 0xA }
+  - { offsetInCU: 0x125D, offset: 0xDAE24, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setAuthDomain:]', symObjAddr: 0xD59, symBinAddr: 0x100005213, symSize: 0xF }
+  - { offsetInCU: 0x129C, offset: 0xDAE63, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions databaseURL]', symObjAddr: 0xD68, symBinAddr: 0x100005222, symSize: 0xA }
+  - { offsetInCU: 0x12D1, offset: 0xDAE98, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setDatabaseURL:]', symObjAddr: 0xD72, symBinAddr: 0x10000522C, symSize: 0xF }
+  - { offsetInCU: 0x1310, offset: 0xDAED7, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions storageBucket]', symObjAddr: 0xD81, symBinAddr: 0x10000523B, symSize: 0xA }
+  - { offsetInCU: 0x1345, offset: 0xDAF0C, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setStorageBucket:]', symObjAddr: 0xD8B, symBinAddr: 0x100005245, symSize: 0xF }
+  - { offsetInCU: 0x1384, offset: 0xDAF4B, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions measurementId]', symObjAddr: 0xD9A, symBinAddr: 0x100005254, symSize: 0xA }
+  - { offsetInCU: 0x13B9, offset: 0xDAF80, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setMeasurementId:]', symObjAddr: 0xDA4, symBinAddr: 0x10000525E, symSize: 0xF }
+  - { offsetInCU: 0x13F8, offset: 0xDAFBF, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions trackingId]', symObjAddr: 0xDB3, symBinAddr: 0x10000526D, symSize: 0xA }
+  - { offsetInCU: 0x142D, offset: 0xDAFF4, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setTrackingId:]', symObjAddr: 0xDBD, symBinAddr: 0x100005277, symSize: 0xF }
+  - { offsetInCU: 0x146C, offset: 0xDB033, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions deepLinkURLScheme]', symObjAddr: 0xDCC, symBinAddr: 0x100005286, symSize: 0xA }
+  - { offsetInCU: 0x14A1, offset: 0xDB068, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setDeepLinkURLScheme:]', symObjAddr: 0xDD6, symBinAddr: 0x100005290, symSize: 0xF }
+  - { offsetInCU: 0x14E0, offset: 0xDB0A7, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions androidClientId]', symObjAddr: 0xDE5, symBinAddr: 0x10000529F, symSize: 0xA }
+  - { offsetInCU: 0x1515, offset: 0xDB0DC, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setAndroidClientId:]', symObjAddr: 0xDEF, symBinAddr: 0x1000052A9, symSize: 0xF }
+  - { offsetInCU: 0x1554, offset: 0xDB11B, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions iosClientId]', symObjAddr: 0xDFE, symBinAddr: 0x1000052B8, symSize: 0xA }
+  - { offsetInCU: 0x1589, offset: 0xDB150, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setIosClientId:]', symObjAddr: 0xE08, symBinAddr: 0x1000052C2, symSize: 0xF }
+  - { offsetInCU: 0x15C8, offset: 0xDB18F, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions iosBundleId]', symObjAddr: 0xE17, symBinAddr: 0x1000052D1, symSize: 0xA }
+  - { offsetInCU: 0x15FD, offset: 0xDB1C4, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setIosBundleId:]', symObjAddr: 0xE21, symBinAddr: 0x1000052DB, symSize: 0xF }
+  - { offsetInCU: 0x163C, offset: 0xDB203, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions appGroupId]', symObjAddr: 0xE30, symBinAddr: 0x1000052EA, symSize: 0xA }
+  - { offsetInCU: 0x1671, offset: 0xDB238, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions setAppGroupId:]', symObjAddr: 0xE3A, symBinAddr: 0x1000052F4, symSize: 0xF }
+  - { offsetInCU: 0x16B0, offset: 0xDB277, size: 0x8, addend: 0x0, symName: '-[PigeonFirebaseOptions .cxx_destruct]', symObjAddr: 0xE49, symBinAddr: 0x100005303, symSize: 0xAC }
+  - { offsetInCU: 0x16E3, offset: 0xDB2AA, size: 0x8, addend: 0x0, symName: '+[PigeonInitializeResponse makeWithName:options:isAutomaticDataCollectionEnabled:pluginConstants:]', symObjAddr: 0xEF5, symBinAddr: 0x1000053AF, symSize: 0xE6 }
+  - { offsetInCU: 0x1878, offset: 0xDB43F, size: 0x8, addend: 0x0, symName: '+[PigeonInitializeResponse fromList:]', symObjAddr: 0xFDB, symBinAddr: 0x100005495, symSize: 0x14A }
+  - { offsetInCU: 0x19FF, offset: 0xDB5C6, size: 0x8, addend: 0x0, symName: '+[PigeonInitializeResponse nullableFromList:]', symObjAddr: 0x1125, symBinAddr: 0x1000055DF, symSize: 0x35 }
+  - { offsetInCU: 0x1A4E, offset: 0xDB615, size: 0x8, addend: 0x0, symName: '-[PigeonInitializeResponse toList]', symObjAddr: 0x115A, symBinAddr: 0x100005614, symSize: 0x230 }
+  - { offsetInCU: 0x1BC6, offset: 0xDB78D, size: 0x8, addend: 0x0, symName: '-[PigeonInitializeResponse name]', symObjAddr: 0x138A, symBinAddr: 0x100005844, symSize: 0xA }
+  - { offsetInCU: 0x1BFB, offset: 0xDB7C2, size: 0x8, addend: 0x0, symName: '-[PigeonInitializeResponse setName:]', symObjAddr: 0x1394, symBinAddr: 0x10000584E, symSize: 0xF }
+  - { offsetInCU: 0x1C3A, offset: 0xDB801, size: 0x8, addend: 0x0, symName: '-[PigeonInitializeResponse options]', symObjAddr: 0x13A3, symBinAddr: 0x10000585D, symSize: 0xA }
+  - { offsetInCU: 0x1C6F, offset: 0xDB836, size: 0x8, addend: 0x0, symName: '-[PigeonInitializeResponse setOptions:]', symObjAddr: 0x13AD, symBinAddr: 0x100005867, symSize: 0x11 }
+  - { offsetInCU: 0x1CAE, offset: 0xDB875, size: 0x8, addend: 0x0, symName: '-[PigeonInitializeResponse isAutomaticDataCollectionEnabled]', symObjAddr: 0x13BE, symBinAddr: 0x100005878, symSize: 0xA }
+  - { offsetInCU: 0x1CE3, offset: 0xDB8AA, size: 0x8, addend: 0x0, symName: '-[PigeonInitializeResponse setIsAutomaticDataCollectionEnabled:]', symObjAddr: 0x13C8, symBinAddr: 0x100005882, symSize: 0x11 }
+  - { offsetInCU: 0x1D22, offset: 0xDB8E9, size: 0x8, addend: 0x0, symName: '-[PigeonInitializeResponse pluginConstants]', symObjAddr: 0x13D9, symBinAddr: 0x100005893, symSize: 0xA }
+  - { offsetInCU: 0x1D57, offset: 0xDB91E, size: 0x8, addend: 0x0, symName: '-[PigeonInitializeResponse setPluginConstants:]', symObjAddr: 0x13E3, symBinAddr: 0x10000589D, symSize: 0x11 }
+  - { offsetInCU: 0x1D96, offset: 0xDB95D, size: 0x8, addend: 0x0, symName: '-[PigeonInitializeResponse .cxx_destruct]', symObjAddr: 0x13F4, symBinAddr: 0x1000058AE, symSize: 0x3E }
+  - { offsetInCU: 0x1DC9, offset: 0xDB990, size: 0x8, addend: 0x0, symName: '-[FirebaseCoreHostApiCodecReader readValueOfType:]', symObjAddr: 0x1432, symBinAddr: 0x1000058EC, symSize: 0xAD }
+  - { offsetInCU: 0x1E3C, offset: 0xDBA03, size: 0x8, addend: 0x0, symName: '-[FirebaseCoreHostApiCodecWriter writeValue:]', symObjAddr: 0x14DF, symBinAddr: 0x100005999, symSize: 0xFE }
+  - { offsetInCU: 0x1F46, offset: 0xDBB0D, size: 0x8, addend: 0x0, symName: '-[FirebaseCoreHostApiCodecReaderWriter writerWithData:]', symObjAddr: 0x15DD, symBinAddr: 0x100005A97, symSize: 0x4D }
+  - { offsetInCU: 0x1FC6, offset: 0xDBB8D, size: 0x8, addend: 0x0, symName: '-[FirebaseCoreHostApiCodecReaderWriter readerWithData:]', symObjAddr: 0x162A, symBinAddr: 0x100005AE4, symSize: 0x4D }
+  - { offsetInCU: 0x2095, offset: 0xDBC5C, size: 0x8, addend: 0x0, symName: ___FirebaseCoreHostApiGetCodec_block_invoke, symObjAddr: 0x16A7, symBinAddr: 0x100005B61, symSize: 0x6A }
+  - { offsetInCU: 0x2113, offset: 0xDBCDA, size: 0x8, addend: 0x0, symName: _FirebaseCoreHostApiSetup, symObjAddr: 0x1711, symBinAddr: 0x100005BCB, symSize: 0x292 }
+  - { offsetInCU: 0x240B, offset: 0xDBFD2, size: 0x8, addend: 0x0, symName: ___FirebaseCoreHostApiSetup_block_invoke, symObjAddr: 0x19A3, symBinAddr: 0x100005E5D, symSize: 0xEE }
+  - { offsetInCU: 0x257B, offset: 0xDC142, size: 0x8, addend: 0x0, symName: ___FirebaseCoreHostApiSetup_block_invoke_2, symObjAddr: 0x1A91, symBinAddr: 0x100005F4B, symSize: 0x37 }
+  - { offsetInCU: 0x260C, offset: 0xDC1D3, size: 0x8, addend: 0x0, symName: _wrapResult, symObjAddr: 0x1AC8, symBinAddr: 0x100005F82, symSize: 0x220 }
+  - { offsetInCU: 0x2782, offset: 0xDC349, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x1D0E, symBinAddr: 0x1000061A2, symSize: 0xF }
+  - { offsetInCU: 0x27B5, offset: 0xDC37C, size: 0x8, addend: 0x0, symName: ___FirebaseCoreHostApiSetup_block_invoke.193, symObjAddr: 0x1D1D, symBinAddr: 0x1000061B1, symSize: 0x92 }
+  - { offsetInCU: 0x286F, offset: 0xDC436, size: 0x8, addend: 0x0, symName: ___FirebaseCoreHostApiSetup_block_invoke_2.194, symObjAddr: 0x1DAF, symBinAddr: 0x100006243, symSize: 0x37 }
+  - { offsetInCU: 0x2900, offset: 0xDC4C7, size: 0x8, addend: 0x0, symName: ___FirebaseCoreHostApiSetup_block_invoke.200, symObjAddr: 0x1DE6, symBinAddr: 0x10000627A, symSize: 0x92 }
+  - { offsetInCU: 0x29BE, offset: 0xDC585, size: 0x8, addend: 0x0, symName: ___FirebaseCoreHostApiSetup_block_invoke_2.201, symObjAddr: 0x1E78, symBinAddr: 0x10000630C, symSize: 0x37 }
+  - { offsetInCU: 0x2A54, offset: 0xDC61B, size: 0x8, addend: 0x0, symName: _FirebaseAppHostApiSetup, symObjAddr: 0x1EF0, symBinAddr: 0x100006384, symSize: 0x292 }
+  - { offsetInCU: 0x2D51, offset: 0xDC918, size: 0x8, addend: 0x0, symName: ___FirebaseAppHostApiSetup_block_invoke, symObjAddr: 0x2182, symBinAddr: 0x100006616, symSize: 0xEE }
+  - { offsetInCU: 0x2EC9, offset: 0xDCA90, size: 0x8, addend: 0x0, symName: ___FirebaseAppHostApiSetup_block_invoke_2, symObjAddr: 0x2270, symBinAddr: 0x100006704, symSize: 0x33 }
+  - { offsetInCU: 0x2F4E, offset: 0xDCB15, size: 0x8, addend: 0x0, symName: ___FirebaseAppHostApiSetup_block_invoke.214, symObjAddr: 0x22A3, symBinAddr: 0x100006737, symSize: 0xEE }
+  - { offsetInCU: 0x30C6, offset: 0xDCC8D, size: 0x8, addend: 0x0, symName: ___FirebaseAppHostApiSetup_block_invoke_2.215, symObjAddr: 0x2391, symBinAddr: 0x100006825, symSize: 0x33 }
+  - { offsetInCU: 0x314B, offset: 0xDCD12, size: 0x8, addend: 0x0, symName: ___FirebaseAppHostApiSetup_block_invoke_3, symObjAddr: 0x23C4, symBinAddr: 0x100006858, symSize: 0xC1 }
+  - { offsetInCU: 0x326C, offset: 0xDCE33, size: 0x8, addend: 0x0, symName: ___FirebaseAppHostApiSetup_block_invoke_4, symObjAddr: 0x2485, symBinAddr: 0x100006919, symSize: 0x33 }
+  - { offsetInCU: 0x27, offset: 0xDD567, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabaseObserveStreamHandler initWithFIRDatabaseQuery:andOnDisposeBlock:]', symObjAddr: 0x0, symBinAddr: 0x10000694C, symSize: 0xA5 }
+  - { offsetInCU: 0x141, offset: 0xDD681, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabaseObserveStreamHandler initWithFIRDatabaseQuery:andOnDisposeBlock:]', symObjAddr: 0x0, symBinAddr: 0x10000694C, symSize: 0xA5 }
+  - { offsetInCU: 0x1F5, offset: 0xDD735, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabaseObserveStreamHandler onListenWithArguments:eventSink:]', symObjAddr: 0xA5, symBinAddr: 0x1000069F1, symSize: 0x182 }
+  - { offsetInCU: 0x383, offset: 0xDD8C3, size: 0x8, addend: 0x0, symName: '___75-[FLTFirebaseDatabaseObserveStreamHandler onListenWithArguments:eventSink:]_block_invoke', symObjAddr: 0x227, symBinAddr: 0x100006B73, symSize: 0x18A }
+  - { offsetInCU: 0x53A, offset: 0xDDA7A, size: 0x8, addend: 0x0, symName: '___75-[FLTFirebaseDatabaseObserveStreamHandler onListenWithArguments:eventSink:]_block_invoke_2', symObjAddr: 0x3B1, symBinAddr: 0x100006CFD, symSize: 0x13 }
+  - { offsetInCU: 0x591, offset: 0xDDAD1, size: 0x8, addend: 0x0, symName: '___75-[FLTFirebaseDatabaseObserveStreamHandler onListenWithArguments:eventSink:]_block_invoke.14', symObjAddr: 0x419, symBinAddr: 0x100006D10, symSize: 0x1DE }
+  - { offsetInCU: 0x77B, offset: 0xDDCBB, size: 0x8, addend: 0x0, symName: '___75-[FLTFirebaseDatabaseObserveStreamHandler onListenWithArguments:eventSink:]_block_invoke_2.23', symObjAddr: 0x5F7, symBinAddr: 0x100006EEE, symSize: 0x53 }
+  - { offsetInCU: 0x82A, offset: 0xDDD6A, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56s64b, symObjAddr: 0x64A, symBinAddr: 0x100006F41, symSize: 0x52 }
+  - { offsetInCU: 0x883, offset: 0xDDDC3, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64s, symObjAddr: 0x69C, symBinAddr: 0x100006F93, symSize: 0x3A }
+  - { offsetInCU: 0x8DE, offset: 0xDDE1E, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabaseObserveStreamHandler onCancelWithArguments:]', symObjAddr: 0x6FC, symBinAddr: 0x100006FCD, symSize: 0x2E }
+  - { offsetInCU: 0x939, offset: 0xDDE79, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabaseObserveStreamHandler databaseHandle]', symObjAddr: 0x72A, symBinAddr: 0x100006FFB, symSize: 0xA }
+  - { offsetInCU: 0x96E, offset: 0xDDEAE, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabaseObserveStreamHandler setDatabaseHandle:]', symObjAddr: 0x734, symBinAddr: 0x100007005, symSize: 0xA }
+  - { offsetInCU: 0x9AB, offset: 0xDDEEB, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabaseObserveStreamHandler databaseQuery]', symObjAddr: 0x73E, symBinAddr: 0x10000700F, symSize: 0x14 }
+  - { offsetInCU: 0x9E2, offset: 0xDDF22, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabaseObserveStreamHandler disposeBlock]', symObjAddr: 0x752, symBinAddr: 0x100007023, symSize: 0x14 }
+  - { offsetInCU: 0xA19, offset: 0xDDF59, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabaseObserveStreamHandler setDisposeBlock:]', symObjAddr: 0x766, symBinAddr: 0x100007037, symSize: 0xF }
+  - { offsetInCU: 0xA58, offset: 0xDDF98, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabaseObserveStreamHandler .cxx_destruct]', symObjAddr: 0x775, symBinAddr: 0x100007046, symSize: 0x28 }
+  - { offsetInCU: 0x27, offset: 0xDE29E, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin init:andChannel:]', symObjAddr: 0x0, symBinAddr: 0x10000706E, symSize: 0xE2 }
+  - { offsetInCU: 0x41, offset: 0xDE2B8, size: 0x8, addend: 0x0, symName: _kFLTFirebaseDatabaseChannelName, symObjAddr: 0x3320, symBinAddr: 0x100010608, symSize: 0x0 }
+  - { offsetInCU: 0xEE, offset: 0xDE365, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin init:andChannel:]', symObjAddr: 0x0, symBinAddr: 0x10000706E, symSize: 0xE2 }
+  - { offsetInCU: 0x1AE, offset: 0xDE425, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabasePlugin registerWithRegistrar:]', symObjAddr: 0xE2, symBinAddr: 0x100007150, symSize: 0x12A }
+  - { offsetInCU: 0x317, offset: 0xDE58E, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin cleanupWithCompletion:]', symObjAddr: 0x20C, symBinAddr: 0x10000727A, symSize: 0x1E4 }
+  - { offsetInCU: 0x442, offset: 0xDE6B9, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin detachFromEngineForRegistrar:]', symObjAddr: 0x3F0, symBinAddr: 0x10000745E, symSize: 0x14 }
+  - { offsetInCU: 0x49A, offset: 0xDE711, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin handleMethodCall:result:]', symObjAddr: 0x404, symBinAddr: 0x100007472, symSize: 0x6DD }
+  - { offsetInCU: 0x96B, offset: 0xDEBE2, size: 0x8, addend: 0x0, symName: '___53-[FLTFirebaseDatabasePlugin handleMethodCall:result:]_block_invoke', symObjAddr: 0xAE1, symBinAddr: 0x100007B4F, symSize: 0x215 }
+  - { offsetInCU: 0xB8C, offset: 0xDEE03, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin didReinitializeFirebaseCore:]', symObjAddr: 0xD4B, symBinAddr: 0x100007D64, symSize: 0x12 }
+  - { offsetInCU: 0xBE8, offset: 0xDEE5F, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin pluginConstantsForFIRApp:]', symObjAddr: 0xD5D, symBinAddr: 0x100007D76, symSize: 0x14 }
+  - { offsetInCU: 0xC27, offset: 0xDEE9E, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin firebaseLibraryName]', symObjAddr: 0xD71, symBinAddr: 0x100007D8A, symSize: 0xD }
+  - { offsetInCU: 0xC5A, offset: 0xDEED1, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin firebaseLibraryVersion]', symObjAddr: 0xD7E, symBinAddr: 0x100007D97, symSize: 0xD }
+  - { offsetInCU: 0xC8D, offset: 0xDEF04, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin flutterChannelName]', symObjAddr: 0xD8B, symBinAddr: 0x100007DA4, symSize: 0xD }
+  - { offsetInCU: 0xCC0, offset: 0xDEF37, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin databaseGoOnline:withMethodCallResult:]', symObjAddr: 0xD98, symBinAddr: 0x100007DB1, symSize: 0xA0 }
+  - { offsetInCU: 0xDAA, offset: 0xDF021, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin databaseGoOffline:withMethodCallResult:]', symObjAddr: 0xE38, symBinAddr: 0x100007E51, symSize: 0xA0 }
+  - { offsetInCU: 0xE94, offset: 0xDF10B, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin databasePurgeOutstandingWrites:withMethodCallResult:]', symObjAddr: 0xED8, symBinAddr: 0x100007EF1, symSize: 0xA0 }
+  - { offsetInCU: 0xF7E, offset: 0xDF1F5, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin databaseSet:withMethodCallResult:]', symObjAddr: 0xF78, symBinAddr: 0x100007F91, symSize: 0x104 }
+  - { offsetInCU: 0x10AC, offset: 0xDF323, size: 0x8, addend: 0x0, symName: '___62-[FLTFirebaseDatabasePlugin databaseSet:withMethodCallResult:]_block_invoke', symObjAddr: 0x107C, symBinAddr: 0x100008095, symSize: 0x8A }
+  - { offsetInCU: 0x1191, offset: 0xDF408, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin databaseSetWithPriority:withMethodCallResult:]', symObjAddr: 0x1124, symBinAddr: 0x10000811F, symSize: 0x126 }
+  - { offsetInCU: 0x12E8, offset: 0xDF55F, size: 0x8, addend: 0x0, symName: '___74-[FLTFirebaseDatabasePlugin databaseSetWithPriority:withMethodCallResult:]_block_invoke', symObjAddr: 0x124A, symBinAddr: 0x100008245, symSize: 0x8A }
+  - { offsetInCU: 0x13CD, offset: 0xDF644, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin databaseUpdate:withMethodCallResult:]', symObjAddr: 0x12D4, symBinAddr: 0x1000082CF, symSize: 0x104 }
+  - { offsetInCU: 0x14FB, offset: 0xDF772, size: 0x8, addend: 0x0, symName: '___65-[FLTFirebaseDatabasePlugin databaseUpdate:withMethodCallResult:]_block_invoke', symObjAddr: 0x13D8, symBinAddr: 0x1000083D3, symSize: 0x8A }
+  - { offsetInCU: 0x15E0, offset: 0xDF857, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin databaseSetPriority:withMethodCallResult:]', symObjAddr: 0x1462, symBinAddr: 0x10000845D, symSize: 0x104 }
+  - { offsetInCU: 0x170E, offset: 0xDF985, size: 0x8, addend: 0x0, symName: '___70-[FLTFirebaseDatabasePlugin databaseSetPriority:withMethodCallResult:]_block_invoke', symObjAddr: 0x1566, symBinAddr: 0x100008561, symSize: 0x8A }
+  - { offsetInCU: 0x17F3, offset: 0xDFA6A, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin databaseRunTransaction:withMethodCallResult:]', symObjAddr: 0x15F0, symBinAddr: 0x1000085EB, symSize: 0x1BF }
+  - { offsetInCU: 0x1986, offset: 0xDFBFD, size: 0x8, addend: 0x0, symName: '___73-[FLTFirebaseDatabasePlugin databaseRunTransaction:withMethodCallResult:]_block_invoke', symObjAddr: 0x17AF, symBinAddr: 0x1000087AA, symSize: 0x256 }
+  - { offsetInCU: 0x1C61, offset: 0xDFED8, size: 0x8, addend: 0x0, symName: '___73-[FLTFirebaseDatabasePlugin databaseRunTransaction:withMethodCallResult:]_block_invoke_2', symObjAddr: 0x1A05, symBinAddr: 0x100008A00, symSize: 0x104 }
+  - { offsetInCU: 0x1DB1, offset: 0xE0028, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48r56r, symObjAddr: 0x1B09, symBinAddr: 0x100008B04, symSize: 0x56 }
+  - { offsetInCU: 0x1DF2, offset: 0xE0069, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48r56r, symObjAddr: 0x1B5F, symBinAddr: 0x100008B5A, symSize: 0x41 }
+  - { offsetInCU: 0x1E29, offset: 0xE00A0, size: 0x8, addend: 0x0, symName: '___73-[FLTFirebaseDatabasePlugin databaseRunTransaction:withMethodCallResult:]_block_invoke.161', symObjAddr: 0x1BA0, symBinAddr: 0x100008B9B, symSize: 0x1FE }
+  - { offsetInCU: 0x1F94, offset: 0xE020B, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s, symObjAddr: 0x1D9E, symBinAddr: 0x100008D99, symSize: 0x2C }
+  - { offsetInCU: 0x1FE1, offset: 0xE0258, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x1DCA, symBinAddr: 0x100008DC5, symSize: 0x2C }
+  - { offsetInCU: 0x2024, offset: 0xE029B, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32w, symObjAddr: 0x1DF6, symBinAddr: 0x100008DF1, symSize: 0x12 }
+  - { offsetInCU: 0x204D, offset: 0xE02C4, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32w, symObjAddr: 0x1E08, symBinAddr: 0x100008E03, symSize: 0xE }
+  - { offsetInCU: 0x206C, offset: 0xE02E3, size: 0x8, addend: 0x0, symName: '___73-[FLTFirebaseDatabasePlugin databaseRunTransaction:withMethodCallResult:]_block_invoke.187', symObjAddr: 0x1E16, symBinAddr: 0x100008E11, symSize: 0x190 }
+  - { offsetInCU: 0x2210, offset: 0xE0487, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin onDisconnectSet:withMethodCallResult:]', symObjAddr: 0x1FA6, symBinAddr: 0x100008FA1, symSize: 0x104 }
+  - { offsetInCU: 0x2342, offset: 0xE05B9, size: 0x8, addend: 0x0, symName: '___66-[FLTFirebaseDatabasePlugin onDisconnectSet:withMethodCallResult:]_block_invoke', symObjAddr: 0x20AA, symBinAddr: 0x1000090A5, symSize: 0x8A }
+  - { offsetInCU: 0x242C, offset: 0xE06A3, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin onDisconnectSetWithPriority:withMethodCallResult:]', symObjAddr: 0x2134, symBinAddr: 0x10000912F, symSize: 0x126 }
+  - { offsetInCU: 0x2587, offset: 0xE07FE, size: 0x8, addend: 0x0, symName: '___78-[FLTFirebaseDatabasePlugin onDisconnectSetWithPriority:withMethodCallResult:]_block_invoke', symObjAddr: 0x225A, symBinAddr: 0x100009255, symSize: 0x8A }
+  - { offsetInCU: 0x2671, offset: 0xE08E8, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin onDisconnectUpdate:withMethodCallResult:]', symObjAddr: 0x22E4, symBinAddr: 0x1000092DF, symSize: 0x104 }
+  - { offsetInCU: 0x27A3, offset: 0xE0A1A, size: 0x8, addend: 0x0, symName: '___69-[FLTFirebaseDatabasePlugin onDisconnectUpdate:withMethodCallResult:]_block_invoke', symObjAddr: 0x23E8, symBinAddr: 0x1000093E3, symSize: 0x8A }
+  - { offsetInCU: 0x288D, offset: 0xE0B04, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin onDisconnectCancel:withMethodCallResult:]', symObjAddr: 0x2472, symBinAddr: 0x10000946D, symSize: 0xBF }
+  - { offsetInCU: 0x2977, offset: 0xE0BEE, size: 0x8, addend: 0x0, symName: '___69-[FLTFirebaseDatabasePlugin onDisconnectCancel:withMethodCallResult:]_block_invoke', symObjAddr: 0x2531, symBinAddr: 0x10000952C, symSize: 0x8A }
+  - { offsetInCU: 0x2A61, offset: 0xE0CD8, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin queryGet:withMethodCallResult:]', symObjAddr: 0x25BB, symBinAddr: 0x1000095B6, symSize: 0xBF }
+  - { offsetInCU: 0x2B4B, offset: 0xE0DC2, size: 0x8, addend: 0x0, symName: '___59-[FLTFirebaseDatabasePlugin queryGet:withMethodCallResult:]_block_invoke', symObjAddr: 0x267A, symBinAddr: 0x100009675, symSize: 0x154 }
+  - { offsetInCU: 0x2CB6, offset: 0xE0F2D, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin queryKeepSynced:withMethodCallResult:]', symObjAddr: 0x27CE, symBinAddr: 0x1000097C9, symSize: 0xEC }
+  - { offsetInCU: 0x2E08, offset: 0xE107F, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin queryObserve:withMethodCallResult:]', symObjAddr: 0x28BA, symBinAddr: 0x1000098B5, symSize: 0x1FE }
+  - { offsetInCU: 0x303D, offset: 0xE12B4, size: 0x8, addend: 0x0, symName: '___63-[FLTFirebaseDatabasePlugin queryObserve:withMethodCallResult:]_block_invoke', symObjAddr: 0x2AB8, symBinAddr: 0x100009AB3, symSize: 0x18 }
+  - { offsetInCU: 0x308E, offset: 0xE1305, size: 0x8, addend: 0x0, symName: '-[FLTFirebaseDatabasePlugin .cxx_destruct]', symObjAddr: 0x2AD0, symBinAddr: 0x100009ACB, symSize: 0x42 }
+  - { offsetInCU: 0x27, offset: 0xE1B9C, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils dispatchQueue]', symObjAddr: 0x0, symBinAddr: 0x100009B0D, symSize: 0x30 }
+  - { offsetInCU: 0x41, offset: 0xE1BB6, size: 0x8, addend: 0x0, symName: _cachedDatabaseInstances, symObjAddr: 0x6C20, symBinAddr: 0x100015810, symSize: 0x0 }
+  - { offsetInCU: 0x50, offset: 0xE1BC5, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils dispatchQueue]', symObjAddr: 0x0, symBinAddr: 0x100009B0D, symSize: 0x30 }
+  - { offsetInCU: 0x7A, offset: 0xE1BEF, size: 0x8, addend: 0x0, symName: _dispatchQueue.once, symObjAddr: 0x6C28, symBinAddr: 0x100015818, symSize: 0x0 }
+  - { offsetInCU: 0x90, offset: 0xE1C05, size: 0x8, addend: 0x0, symName: _dispatchQueue.sharedInstance, symObjAddr: 0x6C30, symBinAddr: 0x100015820, symSize: 0x0 }
+  - { offsetInCU: 0x151, offset: 0xE1CC6, size: 0x8, addend: 0x0, symName: '___41+[FLTFirebaseDatabaseUtils dispatchQueue]_block_invoke', symObjAddr: 0x30, symBinAddr: 0x100009B3D, symSize: 0x27 }
+  - { offsetInCU: 0x1BB, offset: 0xE1D30, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils databaseFromArguments:]', symObjAddr: 0x57, symBinAddr: 0x100009B64, symSize: 0x3E7 }
+  - { offsetInCU: 0x555, offset: 0xE20CA, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils databaseReferenceFromArguments:]', symObjAddr: 0x43E, symBinAddr: 0x100009F4B, symSize: 0xAF }
+  - { offsetInCU: 0x619, offset: 0xE218E, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils databaseQuery:applyLimitModifier:]', symObjAddr: 0x4ED, symBinAddr: 0x100009FFA, symSize: 0x122 }
+  - { offsetInCU: 0x793, offset: 0xE2308, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils databaseQuery:applyOrderModifier:]', symObjAddr: 0x60F, symBinAddr: 0x10000A11C, symSize: 0x162 }
+  - { offsetInCU: 0x92F, offset: 0xE24A4, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils databaseQuery:applyCursorModifier:]', symObjAddr: 0x771, symBinAddr: 0x10000A27E, symSize: 0x216 }
+  - { offsetInCU: 0xB09, offset: 0xE267E, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils databaseQueryFromArguments:]', symObjAddr: 0x987, symBinAddr: 0x10000A494, symSize: 0x2B2 }
+  - { offsetInCU: 0xC84, offset: 0xE27F9, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils dictionaryFromSnapshot:withPreviousChildKey:]', symObjAddr: 0xC39, symBinAddr: 0x10000A746, symSize: 0x109 }
+  - { offsetInCU: 0xD50, offset: 0xE28C5, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils dictionaryFromSnapshot:]', symObjAddr: 0xD42, symBinAddr: 0x10000A84F, symSize: 0x2D3 }
+  - { offsetInCU: 0xF86, offset: 0xE2AFB, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils codeAndMessageFromNSError:]', symObjAddr: 0x1015, symBinAddr: 0x10000AB22, symSize: 0x139 }
+  - { offsetInCU: 0x105E, offset: 0xE2BD3, size: 0x8, addend: 0x0, symName: '+[FLTFirebaseDatabaseUtils eventTypeFromString:]', symObjAddr: 0x114E, symBinAddr: 0x10000AC5B, symSize: 0xC3 }
+...

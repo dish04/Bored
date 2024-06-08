@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "eb9f5cfb2a84bdd9ae3e5337d981331590426ac8fb489b544d4d431e98e4d9c8"
+build_start_time: [1710573257, 418229000]
+build_end_time: [1710573303, 486441000]
+inputs:
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/DataSnapshot+ReadDecodable.swift"
+  : [1710529080, 757415015]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/DatabaseReference+WriteEncodable.swift"
+  : [1710529080, 757788561]
+  "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/EncoderDecoder.swift": [1710529080, 757220971]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/Codable/ServerTimestamp.swift"
+  : [1710529080, 757600559]
+  ? "/Users/dishantharya/new code/weird/float/macos/Pods/FirebaseDatabase/FirebaseDatabase/Swift/Sources/SPMSwiftHeaderWorkaround.swift"
+  : [1710529080, 757971646]

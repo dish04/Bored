@@ -1,0 +1,5 @@
+ extern const unsigned char firebase_ml_model_downloaderVersionString[];
+ extern const double firebase_ml_model_downloaderVersionNumber;
+
+ const unsigned char firebase_ml_model_downloaderVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:firebase_ml_model_downloader  PROJECT:Pods-1" "\n";
+ const double firebase_ml_model_downloaderVersionNumber __attribute__ ((used)) = (double)1.;

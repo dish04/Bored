@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/Objects-normal/arm64/firebase_ml_model_downloader-master.swiftconstvalues",
+    "dependencies" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/Objects-normal/arm64/firebase_ml_model_downloader-master.d",
+    "diagnostics" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/Objects-normal/arm64/firebase_ml_model_downloader-master.dia",
+    "emit-module-dependencies" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/Objects-normal/arm64/firebase_ml_model_downloader-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/Objects-normal/arm64/firebase_ml_model_downloader-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/Objects-normal/arm64/firebase_ml_model_downloader-master.swiftdeps"
+  },
+  "/Users/dishantharya/.pub-cache/hosted/pub.dev/firebase_ml_model_downloader-0.2.4+8/ios/Classes/FirebaseModelDownloaderPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/Objects-normal/arm64/FirebaseModelDownloaderPlugin-7eb4626a50ef6045744e6be23de72062.o",
+    "llvm-bc" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/Objects-normal/arm64/FirebaseModelDownloaderPlugin-7eb4626a50ef6045744e6be23de72062.bc",
+    "object" : "/Users/dishantharya/new code/flutter/coolapp/ios/build/Pods.build/Release-iphoneos/firebase_ml_model_downloader.build/Objects-normal/arm64/FirebaseModelDownloaderPlugin-7eb4626a50ef6045744e6be23de72062.o"
+  }
+}
